@@ -14,7 +14,7 @@ These are the features provided by Phishing Detection to its users.
 - Users can see the preview of the website without actually visiting it.
 - Phishing Detection gives a trust score to the URL, which will provide the user an understanding of the trustability and authenticity of the domain.
 - The URL is checked with a phish database (PhishLink) to see whether it is a reported phishing link.
-- SafeSurf provides crucial details (WHOIS, SSL and general) regarding the domain, which will help the user to get a basic understanding of the URL.
+- Phishing Detection provides crucial details (WHOIS, SSL and general) regarding the domain, which will help the user to get a basic understanding of the URL.
 
 
 <img src="static\Phishing-Screenshot.png"  width="350" height="175">
